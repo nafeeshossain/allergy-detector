@@ -1,6 +1,7 @@
 streamlit
+easyocr
 pandas
-opencv-python-headless
-pytesseract
 scikit-learn
+opencv-python-headless
+numpy
 pillow
