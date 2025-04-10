@@ -1,4 +1,4 @@
-# 🥛 AllergyVision – Food Label Allergy Detector
+# Food Label Allergy Detector
 
 This app uses OCR and a Machine Learning model to detect potential allergens in food labels by analyzing uploaded images.
 
