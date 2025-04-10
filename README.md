@@ -14,4 +14,4 @@ This app uses OCR and a Machine Learning model to detect potential allergens in 
 
 > You're at a grocery store and unsure whether a packaged food item contains ingredients you're allergic to. Upload the image of its label, and this app alerts you if it's safe!
 
-reamlit run app/app.py
+
